@@ -3,6 +3,7 @@
     "cy": true
   },
   "parserOptions": {
+    "parser": "@babel/eslint-parser",
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
